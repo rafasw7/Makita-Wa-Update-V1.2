@@ -69,14 +69,14 @@ npm install
 npm install --no-bin-links
 
 # 3) Inicie o bot
-node conectar.js
+sh iniciar.sh
 ```
 
 ---
 
 ## 🔗 Conexão com o WhatsApp
 
-1. Execute `node conectar.js`
+1. Execute `sh iniciar.sh`
 2. Digite seu número completo (ex: `5511999999999`)
 3. Copie o código QR que aparecer no terminal
 4. No WhatsApp: Configurações → Dispositivos conectados → Conectar um dispositivo
