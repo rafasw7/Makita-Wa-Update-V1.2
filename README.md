@@ -32,7 +32,7 @@ A Makita Base é um bot de WhatsApp em Node.js projetado para facilitar a criaç
 - ⚙️ **Sistemas de segurança:** Antilink, antidocumento, antiaudio e outros.
 - 🛠 **Correções:** Estabilidade aprimorada na conexão com o WhatsApp.
 - 📂 **Organização:** Funções separadas em múltiplos arquivos (`funcoes/`), deixando o código mais limpo e modular.
-- ✨ **Novos comandos:** Mais de 50 comandos adicionados, com novos cases e implementos para começar a expandir o bot.
+- ✨ **Novos comandos:** Novos comandos adicionados, com novos cases e implementos para começar a expandir o bot.
 - 📊 **Loggers:** Sistema de logs no terminal mostrando informações essenciais das mensagens (nome do usuário, lid, origem: grupo ou PV, tipo de mensagem, etc).
 - 🗑 **Remoção de módulos antigos:** Substituição da versão anterior da Baileys modificada, evitando bugs e erros para os usuários.
 - 🔄 **Updater:** Sistema que verifica automaticamente atualizações nos módulos instalados.
