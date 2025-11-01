@@ -78,7 +78,7 @@ sh iniciar.sh
 
 1. Execute `sh iniciar.sh`
 2. Digite seu número completo (ex: `5511999999999`)
-3. Copie o código QR que aparecer no terminal
+3. Copie o código que aparecer no terminal
 4. No WhatsApp: Configurações → Dispositivos conectados → Conectar um dispositivo
 5. Cole o código e conecte — o bot reiniciará e estará pronto para uso
 
